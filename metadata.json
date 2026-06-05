@@ -1,0 +1,6 @@
+{
+  "name": "Ginkgo Clinical Case Simulator",
+  "description": "An organic botanical-styled clinical OSCE case simulator where students interact with patients, execute trials/labs, and submit diagnostic SOAP notes for AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
